@@ -1,4 +1,4 @@
 # blockchain-CrCu-sample
-TODO:
-    solve the problem finding other nodes in the Internet
+TODO:    
+    solve the problem finding other nodes in the Internet    
     develop a gui
